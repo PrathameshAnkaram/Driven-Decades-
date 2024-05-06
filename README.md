@@ -18,8 +18,6 @@ Installation -
 Clone the repository and install the required Python packages
 
 git clone https://github.com/yourusername/driven-decades.git
-cd driven-decades
-pip install -r requirements.txt
 
 Usage - 
 Run the Jupyter notebooks to view the analysis:
